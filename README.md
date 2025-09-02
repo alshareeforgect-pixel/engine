@@ -1,4 +1,4 @@
-Flutter Engine
+Flicker Engine
 ==============
 
 [![Build Status - Cirrus][]][Build status]
